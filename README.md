@@ -2,7 +2,7 @@
 
 ### 50 Projects 50 Days HTML, CSS, JavaScript
 
-##### Project Number 6
+##### Project Number 7
 ####  This project is geared toward beginners, 
 but intermediate developers can also enjoy creating new things. 
 This is one of the 50 mini projects in HTML, 
